@@ -10,3 +10,8 @@ target/
 *.ipr
 *.iws
 .*.sw?
+.project
+.settings
+pom.xml
+.classpath
+.scala_dependencies

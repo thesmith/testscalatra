@@ -1,4 +1,4 @@
-package com.example
+package thesmith.testscalatra
 
 import org.scalatra._
 import org.scalatra.test.scalatest._
